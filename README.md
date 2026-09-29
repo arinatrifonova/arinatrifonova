@@ -1,3 +1,1 @@
-header
-
-# about me
+![змейка](github-snake.svg)
